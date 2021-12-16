@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HeoYoungJin98
-- 👀 I’m interested in Web_Programming
 
 
 <!---
