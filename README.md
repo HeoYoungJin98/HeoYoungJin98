@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeoYoungJin98
+- 👋 Hi, I’m @YoungJin Heo
 
 
 <!---
