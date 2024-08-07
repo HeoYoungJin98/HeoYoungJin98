@@ -23,6 +23,8 @@
 <div align=center>
   <h3 align="center">🛠 Tools 🛠</h3>
 </div>
+
+<a href="https://github.com/HeoYoungJin98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>
 <!---
 HeoYoungJin98/HeoYoungJin98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
