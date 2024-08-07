@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoungJin Heo
 
 <div align=center>
-  <h4>✨ Stacks</h4>
+  <h3>✨ Stacks</h3>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,7 +11,7 @@
 </div>
 
 <div align=center>
-  <h4>📚 Studying</h4>
+  <h3>📚 Studying</h3>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
