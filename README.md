@@ -23,6 +23,11 @@
 <div align=center>
   <h3 align="center">🛠 Tools 🛠</h3>
 </div>
+<div align=center>
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</div>
 
 <div align=center>
   <a href="https://github.com/HeoYoungJin98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true"></a>
