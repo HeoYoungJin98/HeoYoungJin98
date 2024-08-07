@@ -17,7 +17,9 @@
 <div align=center>
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><br>
+
+  <img src="https://img.shields.io/badge/vanilla-extract-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
 </div>
 
 <div align=center>
