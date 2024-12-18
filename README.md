@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><br>
 
   <img src="https://img.shields.io/badge/vanilla_extract-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
 <div align=center>
